@@ -21,4 +21,4 @@ This repository contains the Task 2 project for the AUREX Full-Stack Engineering
 
 ## Live Demo
 - **Repository:** https://github.com/labiqaalvi-jpg/aurex-web-internship-Zainab-Fatima-month-2-week-2
-- **Live Deployment:** [Vercel Deployment Link Here]
+- **Live Deployment:** [https://aurex-week2-dashboard.vercel.app/]
